@@ -15,7 +15,7 @@ This is a battery indicator app which is used to know battery percentage of the 
 - Download or clone the repository
 
 ```
-git clone https://github.com/ohanz/.git
+git clone https://github.com/ohanz/HyeOSBatteryIndicator.git
 ```
 
 - Go to the directory
