@@ -23,6 +23,7 @@ git clone https://github.com/ohanz/HyeOSBatteryIndicator.git
 - Start Scrolling!!
 
 #### Output/Screenshots
+![Ihype _ Battery Indicator - Google Chrome 12_14_2024 8_41_12 AM](https://github.com/user-attachments/assets/1ee61cc8-58fd-42df-ad42-48cded3cbadc)
 
 
 Editor: <a href="https://github.com/ohanz">ODC</a>
